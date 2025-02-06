@@ -1,6 +1,4 @@
-// F* Sparx: Sparx Reader
-// Made by Zin
-// Heavily recommend SenAI for maths
+
 
 let copiedText = ''; // Store copied text globally
 let lastCheckedTime = 0;
